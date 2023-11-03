@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evg503
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, compilers, keyboard DIY
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
